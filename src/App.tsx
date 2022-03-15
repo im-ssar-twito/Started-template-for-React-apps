@@ -1,11 +1,11 @@
 import React from 'react';
-import HomePage from './components/HomePage/HomePage'
+
 import './App.scss';
 
-function App() {
+const App: React.FC = () => {
   return (
     <div className="App">
-      <HomePage />
+
     </div>
   );
 }
