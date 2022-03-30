@@ -2,7 +2,7 @@ import React from 'react';
 
 import './App.scss';
 
-const App: React.FC = () => {
+const App = () => {
   return (
     <div className="App">
 
