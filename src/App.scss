@@ -10,3 +10,13 @@
 html {
     font-size: 62.5%;
 }
+
+body{
+
+    button{
+        transition: transform .2s;
+        &:hover{
+            transform: scale(1.15);
+        }
+    }
+}
